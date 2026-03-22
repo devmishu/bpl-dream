@@ -5,7 +5,9 @@ const AvaileablePlayersCard = ({ player }) => {
     const { name, country, role, price, rating, image, alt } = player;
     return (
         <div className="card gap-4 p-3  border-2 border-[#13131313] ">
-            <img className="rounded-md" src={image ? image : profileImg} alt={alt} />
+            <div>
+                <img className="w-full h-75 rounded-md" src={image ? image : profileImg} alt={alt} />
+            </div>
 
             <div className="flex gap-2 items-center">
                 <CircleUserRound />

@@ -4,7 +4,7 @@ import AvailablePlayersGrid from './AvailablePlayersGrid';
 
 // availeable players promice
 const availeablePlayersPromice = async () => {
-    const res = await fetch('../../../public/playersData.json');
+    const res = await fetch('playersData.json');
     return res.json();
 }
 

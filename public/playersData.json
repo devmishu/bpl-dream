@@ -16,7 +16,6 @@
         "role": "Batsman",
         "price": 1450000,
         "rating": 9.4,
-        "image": "https://i.pravatar.cc/300?img=2",
         "alt": "Babar Azam profile image"
     },
     {
@@ -26,7 +25,6 @@
         "role": "Batsman",
         "price": 1400000,
         "rating": 9.3,
-        "image": "https://i.pravatar.cc/300?img=3",
         "alt": "Joe Root profile image"
     },
     {
@@ -36,7 +34,6 @@
         "role": "Batsman",
         "price": 1350000,
         "rating": 9.2,
-        "image": "https://i.pravatar.cc/300?img=4",
         "alt": "Kane Williamson profile image"
     },
     {
@@ -46,7 +43,6 @@
         "role": "Batsman",
         "price": 1420000,
         "rating": 9.3,
-        "image": "https://i.pravatar.cc/300?img=5",
         "alt": "Steve Smith profile image"
     },
     {
@@ -56,7 +52,7 @@
         "role": "Batsman",
         "price": 1300000,
         "rating": 9.0,
-        "image": "https://i.pravatar.cc/300?img=6",
+        
         "alt": "David Warner profile image"
     },
     {
@@ -66,7 +62,7 @@
         "role": "Batsman",
         "price": 1380000,
         "rating": 9.1,
-        "image": "https://i.pravatar.cc/300?img=7",
+       
         "alt": "Rohit Sharma profile image"
     },
     {
@@ -76,7 +72,7 @@
         "role": "All-Rounder",
         "price": 1320000,
         "rating": 9.0,
-        "image": "https://i.pravatar.cc/300?img=8",
+       
         "alt": "Shakib Al Hasan profile image"
     },
     {
@@ -86,7 +82,7 @@
         "role": "All-Rounder",
         "price": 1450000,
         "rating": 9.4,
-        "image": "https://i.pravatar.cc/300?img=9",
+        
         "alt": "Ben Stokes profile image"
     },
     {
@@ -96,7 +92,7 @@
         "role": "Wicket-Keeper",
         "price": 1370000,
         "rating": 9.2,
-        "image": "https://i.pravatar.cc/300?img=10",
+       
         "alt": "Jos Buttler profile image"
     },
     {
@@ -106,7 +102,7 @@
         "role": "Wicket-Keeper",
         "price": 1280000,
         "rating": 8.9,
-        "image": "https://i.pravatar.cc/300?img=11",
+        
         "alt": "KL Rahul profile image"
     },
     {
@@ -116,7 +112,7 @@
         "role": "All-Rounder",
         "price": 1400000,
         "rating": 9.1,
-        "image": "https://i.pravatar.cc/300?img=12",
+        
         "alt": "Hardik Pandya profile image"
     },
     {
@@ -126,7 +122,7 @@
         "role": "Bowler",
         "price": 1350000,
         "rating": 9.3,
-        "image": "https://i.pravatar.cc/300?img=13",
+       
         "alt": "Jasprit Bumrah profile image"
     },
     {
@@ -136,7 +132,7 @@
         "role": "Bowler",
         "price": 1330000,
         "rating": 9.2,
-        "image": "https://i.pravatar.cc/300?img=14",
+        
         "alt": "Shaheen Afridi profile image"
     },
     {
@@ -996,7 +992,7 @@
         "role": "Batsman",
         "price": 1310000,
         "rating": 9.0,
-        "image": "https://i.pravatar.cc/300?img=100",
+        
         "alt": "Najmul Hossain Shanto profile image"
     }
 ]
