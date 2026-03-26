@@ -5,7 +5,7 @@ import AvailablePlayers from "../Main/AvailablePlayers";
 
 
 const BplDream = () => {
-    const [coin, setCoin] = useState(50000);
+    const [coin, setCoin] = useState(5000000000);
     const [selectedPlayers, setSelectedPlayers] = useState([])
     return (
         <div>
