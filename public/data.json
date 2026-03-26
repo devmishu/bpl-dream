@@ -1,0 +1,301 @@
+[
+    {
+        "id": 71,
+        "name": "Dawid Malan",
+        "country": "England",
+        "role": "Batsman",
+        "price": 1290000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=71",
+        "alt": "Dawid Malan profile image"
+    },
+    {
+        "id": 72,
+        "name": "Moeen Ali",
+        "country": "England",
+        "role": "All-Rounder",
+        "price": 1320000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=72",
+        "alt": "Moeen Ali profile image"
+    },
+    {
+        "id": 73,
+        "name": "Reece Topley",
+        "country": "England",
+        "role": "Bowler",
+        "price": 1280000,
+        "rating": 8.8,
+        "image": "https://i.pravatar.cc/300?img=73",
+        "alt": "Reece Topley profile image"
+    },
+    {
+        "id": 74,
+        "name": "Phil Salt",
+        "country": "England",
+        "role": "Wicket-Keeper",
+        "price": 1300000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=74",
+        "alt": "Phil Salt profile image"
+    },
+    {
+        "id": 75,
+        "name": "Liam Livingstone",
+        "country": "England",
+        "role": "All-Rounder",
+        "price": 1340000,
+        "rating": 9.1,
+        "image": "https://i.pravatar.cc/300?img=75",
+        "alt": "Liam Livingstone profile image"
+    },
+    {
+        "id": 76,
+        "name": "Jason Holder",
+        "country": "West Indies",
+        "role": "All-Rounder",
+        "price": 1330000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=76",
+        "alt": "Jason Holder profile image"
+    },
+    {
+        "id": 77,
+        "name": "Shai Hope",
+        "country": "West Indies",
+        "role": "Wicket-Keeper",
+        "price": 1290000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=77",
+        "alt": "Shai Hope profile image"
+    },
+    {
+        "id": 78,
+        "name": "Shimron Hetmyer",
+        "country": "West Indies",
+        "role": "Batsman",
+        "price": 1310000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=78",
+        "alt": "Shimron Hetmyer profile image"
+    },
+    {
+        "id": 79,
+        "name": "Akeal Hosein",
+        "country": "West Indies",
+        "role": "Bowler",
+        "price": 1270000,
+        "rating": 8.8,
+        "image": "https://i.pravatar.cc/300?img=79",
+        "alt": "Akeal Hosein profile image"
+    },
+    {
+        "id": 80,
+        "name": "Obed McCoy",
+        "country": "West Indies",
+        "role": "Bowler",
+        "price": 1260000,
+        "rating": 8.7,
+        "image": "https://i.pravatar.cc/300?img=80",
+        "alt": "Obed McCoy profile image"
+    },
+    {
+        "id": 81,
+        "name": "David Wiese",
+        "country": "Namibia",
+        "role": "All-Rounder",
+        "price": 1200000,
+        "rating": 8.6,
+        "image": "https://i.pravatar.cc/300?img=81",
+        "alt": "David Wiese profile image"
+    },
+    {
+        "id": 82,
+        "name": "Gerhard Erasmus",
+        "country": "Namibia",
+        "role": "Batsman",
+        "price": 1190000,
+        "rating": 8.5,
+        "image": "https://i.pravatar.cc/300?img=82",
+        "alt": "Gerhard Erasmus profile image"
+    },
+    {
+        "id": 83,
+        "name": "JJ Smit",
+        "country": "Namibia",
+        "role": "All-Rounder",
+        "price": 1180000,
+        "rating": 8.4,
+        "image": "https://i.pravatar.cc/300?img=83",
+        "alt": "JJ Smit profile image"
+    },
+    {
+        "id": 84,
+        "name": "Jan Frylinck",
+        "country": "Namibia",
+        "role": "Bowler",
+        "price": 1170000,
+        "rating": 8.4,
+        "image": "https://i.pravatar.cc/300?img=84",
+        "alt": "Jan Frylinck profile image"
+    },
+    {
+        "id": 85,
+        "name": "Zane Green",
+        "country": "Namibia",
+        "role": "Wicket-Keeper",
+        "price": 1160000,
+        "rating": 8.3,
+        "image": "https://i.pravatar.cc/300?img=85",
+        "alt": "Zane Green profile image"
+    },
+    {
+        "id": 86,
+        "name": "Mohammad Rizwan",
+        "country": "Pakistan",
+        "role": "Wicket-Keeper",
+        "price": 1360000,
+        "rating": 9.2,
+        "image": "https://i.pravatar.cc/300?img=86",
+        "alt": "Mohammad Rizwan profile image"
+    },
+    {
+        "id": 87,
+        "name": "Fakhar Zaman",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "price": 1320000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=87",
+        "alt": "Fakhar Zaman profile image"
+    },
+    {
+        "id": 88,
+        "name": "Haris Rauf",
+        "country": "Pakistan",
+        "role": "Bowler",
+        "price": 1330000,
+        "rating": 9.1,
+        "image": "https://i.pravatar.cc/300?img=88",
+        "alt": "Haris Rauf profile image"
+    },
+    {
+        "id": 89,
+        "name": "Shadab Khan",
+        "country": "Pakistan",
+        "role": "All-Rounder",
+        "price": 1340000,
+        "rating": 9.1,
+        "image": "https://i.pravatar.cc/300?img=89",
+        "alt": "Shadab Khan profile image"
+    },
+    {
+        "id": 90,
+        "name": "Imam-ul-Haq",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "price": 1310000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=90",
+        "alt": "Imam-ul-Haq profile image"
+    },
+    {
+        "id": 91,
+        "name": "Gulbadin Naib",
+        "country": "Afghanistan",
+        "role": "All-Rounder",
+        "price": 1240000,
+        "rating": 8.6,
+        "image": "https://i.pravatar.cc/300?img=91",
+        "alt": "Gulbadin Naib profile image"
+    },
+    {
+        "id": 92,
+        "name": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "role": "Wicket-Keeper",
+        "price": 1290000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=92",
+        "alt": "Rahmanullah Gurbaz profile image"
+    },
+    {
+        "id": 93,
+        "name": "Fazalhaq Farooqi",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "price": 1300000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=93",
+        "alt": "Fazalhaq Farooqi profile image"
+    },
+    {
+        "id": 94,
+        "name": "Ibrahim Zadran",
+        "country": "Afghanistan",
+        "role": "Batsman",
+        "price": 1280000,
+        "rating": 8.8,
+        "image": "https://i.pravatar.cc/300?img=94",
+        "alt": "Ibrahim Zadran profile image"
+    },
+    {
+        "id": 95,
+        "name": "Azmatullah Omarzai",
+        "country": "Afghanistan",
+        "role": "All-Rounder",
+        "price": 1270000,
+        "rating": 8.8,
+        "image": "https://i.pravatar.cc/300?img=95",
+        "alt": "Azmatullah Omarzai profile image"
+    },
+    {
+        "id": 96,
+        "name": "Taskin Ahmed",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "price": 1290000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=96",
+        "alt": "Taskin Ahmed profile image"
+    },
+    {
+        "id": 97,
+        "name": "Mehidy Hasan",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "price": 1300000,
+        "rating": 9.0,
+        "image": "https://i.pravatar.cc/300?img=97",
+        "alt": "Mehidy Hasan profile image"
+    },
+    {
+        "id": 98,
+        "name": "Afif Hossain",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "price": 1270000,
+        "rating": 8.8,
+        "image": "https://i.pravatar.cc/300?img=98",
+        "alt": "Afif Hossain profile image"
+    },
+    {
+        "id": 99,
+        "name": "Shoriful Islam",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "price": 1280000,
+        "rating": 8.9,
+        "image": "https://i.pravatar.cc/300?img=99",
+        "alt": "Shoriful Islam profile image"
+    },
+    {
+        "id": 100,
+        "name": "Najmul Hossain Shanto",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "price": 1310000,
+        "rating": 9.0,
+        "alt": "Najmul Hossain Shanto profile image"
+    }
+]

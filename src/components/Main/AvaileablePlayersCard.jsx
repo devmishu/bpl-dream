@@ -1,8 +1,21 @@
 import { CircleUserRound, Flag } from "lucide-react";
 import profileImg from "../../assets/defelt-profile-img.png";
+import { useState } from "react";
 
-const AvaileablePlayersCard = ({ player }) => {
+const AvaileablePlayersCard = ({ player, selectedPlayers, setSelectedPlayers, coin, setCoin }) => {
     const { name, country, role, price, rating, image, alt } = player;
+    const [selected, setSelected] = useState(false);
+
+    const handleSelectedPlayers = (player) => {
+        // const filterSelectedPlayers = availeablePlayersData.filter(deletedplayers => player.id !==  )
+        if (coin < price) {
+            alert('Not Anefh Balanch');
+            return;
+        }
+        setCoin(coin - price);
+        setSelectedPlayers([...selectedPlayers, player]);
+        setSelected(true);
+    }
     return (
         <div className="card gap-4 p-3  border-2 border-[#13131313] ">
             <div>
@@ -35,7 +48,7 @@ const AvaileablePlayersCard = ({ player }) => {
 
             <div className="flex justify-between items-center">
                 <h2 className="text-xl font-semibold">Price: ${price}</h2>
-                <button className="btn btn-sm ">Choose Player</button>
+                <button onClick={() => handleSelectedPlayers(player)} className="btn btn-sm " disabled={selected}>{selected ? 'Selected' : 'Choose Player'} </button>
             </div>
         </div>
 
